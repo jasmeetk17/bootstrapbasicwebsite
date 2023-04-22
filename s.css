@@ -1,0 +1,40 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:content-box;
+    font-family: 'Open Sans', sans-serif;
+}
+.carousel-item img {
+    height: 94vh;
+    width: 100%;
+}
+.aimg{
+    min-width:39vw;
+    max-height: 500vh;
+}
+.offer_style{
+    background-color: #84cce7;
+    
+    
+    
+}
+footer p{
+    margin-bottom: 0;
+}
+
+
+/* used for responsive site*/
+
+
+@media (min-width: 576px) { }
+
+@media (min-width: 768px) { }
+
+
+@media (min-width: 992px) { }
+
+
+@media (min-width: 1200px) { }
+
+
+@media (min-width: 1400px) { }
